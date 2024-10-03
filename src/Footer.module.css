@@ -1,0 +1,13 @@
+.footer {
+  text-align: center;
+  padding: 20px 10px;
+  background: #222;
+  color: #fff;
+  font-size: 2vw;
+}
+
+@media (min-width: 768px) {
+  .footer {
+    font-size: 1em;
+  }
+}
